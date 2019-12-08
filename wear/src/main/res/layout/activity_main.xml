@@ -1,0 +1,39 @@
+<android.support.wearable.view.BoxInsetLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/logo"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:padding="1dp"
+    android:id="@+id/box">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="1dp"
+        app:layout_box="all">
+
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="ForgeRock Wearable SDK"
+            android:textColor="@color/black"
+            android:textStyle="bold|italic"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/open"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom|start"
+            android:background="@android:color/transparent" />
+
+        <Button
+            android:id="@+id/auth"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom|end"
+            android:background="@android:color/transparent" />
+    </FrameLayout>
+</android.support.wearable.view.BoxInsetLayout>

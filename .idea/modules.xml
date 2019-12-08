@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forgerock-android-sdk-master.iml" filepath="$PROJECT_DIR$/forgerock-android-sdk-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forgerock-auth/forgerock-auth.iml" filepath="$PROJECT_DIR$/forgerock-auth/forgerock-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forgerock-auth-ui/forgerock-auth-ui.iml" filepath="$PROJECT_DIR$/forgerock-auth-ui/forgerock-auth-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forgerock-management/forgerock-management.iml" filepath="$PROJECT_DIR$/forgerock-management/forgerock-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wear/wear.iml" filepath="$PROJECT_DIR$/wear/wear.iml" />
+    </modules>
+  </component>
+</project>
