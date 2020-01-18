@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/forgerock-android-sdk-master.iml" filepath="$PROJECT_DIR$/forgerock-android-sdk-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forgerock-android-wear.iml" filepath="$PROJECT_DIR$/forgerock-android-wear.iml" />
       <module fileurl="file://$PROJECT_DIR$/forgerock-auth/forgerock-auth.iml" filepath="$PROJECT_DIR$/forgerock-auth/forgerock-auth.iml" />
       <module fileurl="file://$PROJECT_DIR$/forgerock-auth-ui/forgerock-auth-ui.iml" filepath="$PROJECT_DIR$/forgerock-auth-ui/forgerock-auth-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/forgerock-management/forgerock-management.iml" filepath="$PROJECT_DIR$/forgerock-management/forgerock-management.iml" />
